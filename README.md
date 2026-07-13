@@ -1,6 +1,7 @@
 # AI Code Benchmark — Testador de Desempenho de Código Gerado por IA
 
 ![Gráfico de benchmark comparativo de throughput entre modelos de IA](benchmark.png)
+![Gráfico de tempo de execução por IA em milissegundos](tempo.png)
 
 > Plataforma de benchmark automatizado para avaliar e comparar a performance de código Python gerado por diferentes modelos de IA (LLMs de código), medindo **tempo de execução**, **throughput (eventos/s)** e **resistência a escala** em rodadas progressivas de carga.
 
